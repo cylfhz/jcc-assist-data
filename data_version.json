@@ -1,0 +1,65 @@
+{
+ "schema": 1,
+ "version": "202611081831",
+ "updated": "2026-11-08 18:31:36",
+ "total_size": 2360984,
+ "files": [
+  {
+   "path": "modes/_index.json",
+   "size": 1125,
+   "sha256": "fa90ac409b27a475"
+  },
+  {
+   "path": "modes/m10_s16.json",
+   "size": 179879,
+   "sha256": "bc1c209bd5df3f38"
+  },
+  {
+   "path": "modes/m11_s100030.json",
+   "size": 233869,
+   "sha256": "0e41bcdcbe8a4dc0"
+  },
+  {
+   "path": "modes/m16_s100024.json",
+   "size": 287038,
+   "sha256": "dfa193351e512522"
+  },
+  {
+   "path": "modes/m16_s19.json",
+   "size": 298126,
+   "sha256": "c9de2c9b17117b2d"
+  },
+  {
+   "path": "modes/m16_s400001.json",
+   "size": 249013,
+   "sha256": "e0794f3fbbade106"
+  },
+  {
+   "path": "modes/m17_s18.json",
+   "size": 255614,
+   "sha256": "a875891646062ff3"
+  },
+  {
+   "path": "modes/m18_s19.json",
+   "size": 314642,
+   "sha256": "1d4d75424a7eb254"
+  },
+  {
+   "path": "modes/m1_s1.json",
+   "size": 49588,
+   "sha256": "93a9faeb0448e80e"
+  },
+  {
+   "path": "modes/m4_s18.json",
+   "size": 240911,
+   "sha256": "f5784c1fa4030a8d"
+  },
+  {
+   "path": "modes/m8_s19.json",
+   "size": 251179,
+   "sha256": "d5bcdd9f2e14d267"
+  }
+ ],
+ "min_app_version": 1,
+ "notes": "首次发布：10 个玩法数据"
+}
